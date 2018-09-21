@@ -1,5 +1,8 @@
 _repo: In-the-Far-East-A-Narrative-of-Exploration-and-Adventure-in-Cochin-China-Cambodia-Laos-and-Si__54692
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54692-h/images/cover.jpg
 creator:
   author:
     agent_name: Adams, W. H. Davenport (William Henry Davenport)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '34969'
     url: http://www.gutenberg.org/2009/agents/34969
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54692#In-the-Far-East-A-Narrative-of-Exploration-and-Adventure-in-Cochin-China-Cambodia-Laos-and-Si_
 gutenberg_issued: '2017-05-09'
 gutenberg_type: Text
 identifiers:
